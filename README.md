@@ -22,3 +22,6 @@ Extra knowledge learnt from this project:
 - Mongoose
 - JWT
 - Formik
+
+## Note!
+It might take a moment for the server to fire up.
